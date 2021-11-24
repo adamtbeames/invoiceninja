@@ -26,6 +26,7 @@ Let's explore the tasks list according to the tabs on the main header bar of the
 - **Client**: The client name
 - **Date**: The date the task was started, followed by the time it was started
 - **Duration**: The total time logged for the task
+- **TravelLog**: The distance traveled for the task
 - **Description**: Information about the task that you entered when you created the task
 - **Status**: The current status of the task (Blue = Running, Gray = Logged, Green = Invoiced)
 - **Action**: The Action button provides a range of possible actions, depending upon the status of the task.
